@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = ['628112958665','6288215569001','628998512588'] // Put your number here
+global.owner = ['6287719424487','6282226078871','6281368176386'] // Put your number here
 global.mods = [] // Want some help?
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -26,10 +26,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Haruno'
-global.author = 'Fadli'
+global.packname = 'Sachi-Botzz え'
+global.author = 'Agungxัี'
 global.image = 'https://telegra.ph/file/22cacf2d738f3732bf558.png'
-global.watermark = '© Haruno'
+global.watermark = '© Sachi-Botzz え'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.gambar = 'https://telegra.ph/file/22cacf2d738f3732bf558.png'
 global.pic =  ['https://telegra.ph/file/f96d9fdebba8eaa08ba7b.jpg', 'https://telegra.ph/file/67ae7747903d9b45a7427.jpg', 'https://telegra.ph/file/5d8c2f2797cb067ef887c.jpg', 'https://telegra.ph/file/07f09ce47a07c187b1d79.jpg', 'https://telegra.ph/file/456bdf2f852674b3fdb18.jpg', 'https://telegra.ph/file/96bfbbe091aa5523c7150.jpg', 'https://telegra.ph/file/7644617a4ad58d8d6f0e2.jpg']
