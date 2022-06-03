@@ -3,10 +3,10 @@ let handler = async(m, { conn }) => {
     let teks = `
 ${conn.top('Donasi')}
 ├ Biar bot nya jalan terus hehe
-├ Dana: 628112958665
-├ OVO: 628112958665
-├ GoPay: 628112958665
-├ Pulsa: 6281943265086
+├ Dana: -
+├ OVO: -
+├ GoPay: -
+├ Pulsa: 6287719424487
 │
 ${conn.bottom('Haruno')}`.trim()
     const message = {
@@ -18,7 +18,7 @@ ${conn.bottom('Haruno')}`.trim()
             {
                 urlButton: {
                     displayText: 'Saweria',
-                    url: 'https://saweria.co/FadliStudio'
+                    url: 'Ga Punya'
                 }
             }, {
                 quickReplyButton: {
